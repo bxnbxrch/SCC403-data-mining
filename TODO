@@ -4,9 +4,9 @@
 [+] Task 1: Basel Climate Dataset
     [+] Load dataset and initial data inspection
         [+] Check for missing data
-        [ ] Verify data types and shapes
+        [+] Verify data types and shapes
     [ ] Data Pre-processing
-        [ ] Standardize features
+        [+] Standardize features
         [ ] Normalize features
         [ ] Outlier detection and treatment
         [ ] Feature selection/extraction (e.g., PCA)
