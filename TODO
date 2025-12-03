@@ -1,0 +1,42 @@
+[+] Environment Setup
+    [+] Install Python and IDE (e.g., Spyder via Anaconda or use online IDE)
+    [+] Install required libraries (NumPy, Matplotlib, SciPy, scikit-learn, PyTorch, Torchvision)
+[+] Task 1: Basel Climate Dataset
+    [+] Load dataset and initial data inspection
+        [+] Check for missing data
+        [ ] Verify data types and shapes
+    [ ] Data Pre-processing
+        [ ] Standardize features
+        [ ] Normalize features
+        [ ] Outlier detection and treatment
+        [ ] Feature selection/extraction (e.g., PCA)
+    [ ] Clustering Analysis
+        [ ] K-Means clustering
+        [ ] Hierarchical clustering
+        [ ] Independent research clustering method (e.g., DBSCAN, Spectral Clustering, K-Medoids)
+        [ ] Cluster evaluation using quantitative metrics (Purity, Davies-Bouldin)
+        [ ] Visualize clusters and centroids
+    [ ] Documentation and critical analysis for Task 1
+[ ] Task 2: Image Processing with DNNs
+    [ ] Dataset & DNN Model Selection
+        [ ] Choose and obtain two datasets (e.g., OxfordPetsIIIT, Food101, etc.)
+        [ ] Select DNN model(s) for feature extraction (e.g., DinoV2, VGG16, ResNet)
+    [ ] Image Preprocessing & Feature Extraction
+        [ ] Resize and normalize images
+        [ ] Extract feature vectors using chosen DNN(s)
+        [ ] Dimensionality reduction (e.g., PCA, t-SNE, UMAP)
+        [ ] Visualize feature vectors in 2D
+    [ ] Clustering in Latent Space
+        [ ] Perform clustering on latent feature vectors
+        [ ] Evaluate cluster quality (Purity, Davies-Bouldin, etc.)
+    [ ] Classification
+        [ ] Apply linear fine-tuning (LFT) and/or alternative classifiers (kNN, SVM, Decision Tree)
+        [ ] Compute performance metrics (Accuracy, Confusion Matrix, Precision, Recall, F1, computational complexity)
+    [ ] Documentation and critical analysis for Task 2
+[ ] Report Writing and Submission
+    [ ] Draft main report (≤6 pages, double-column)
+    [ ] Prepare Appendix (code, extended results, ≤4 pages)
+    [ ] Add abstract, introduction, conclusion, acknowledgments, references
+    [ ] Add appropriate code and analysis samples
+    [ ] Final review for completeness and clarity
+    [ ] Submit code and report
