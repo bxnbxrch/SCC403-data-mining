@@ -7,13 +7,13 @@
         [+] Verify data types and shapes
     [ ] Data Pre-processing
         [+] Standardize features
-        [ ] Normalize features
-        [ ] Outlier detection and treatment
-        [ ] Feature selection/extraction (e.g., PCA)
-    [ ] Clustering Analysis
-        [ ] K-Means clustering
-        [ ] Hierarchical clustering
-        [ ] Independent research clustering method (e.g., DBSCAN, Spectral Clustering, K-Medoids)
+        [+] Normalize features
+        [+] Outlier detection and treatment
+        [+] Feature selection/extraction (e.g., PCA)
+     [+] Clstering Analysis
+        [+] K-Means clustering
+        [+] Hierarchical clustering
+        [+] Independent research clustering method (e.g., DBSCAN, Spectral Clustering, K-Medoids)
         [ ] Cluster evaluation using quantitative metrics (Purity, Davies-Bouldin)
         [ ] Visualize clusters and centroids
     [ ] Documentation and critical analysis for Task 1
